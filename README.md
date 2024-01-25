@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 - Hi 👋, I’m @Kombaiya-MK (Call me MK :wink:)
-- Tech Noob :computer: | Open Source Enthusiast :octocat: | Continuous Learner :books:
+- Open Source Enthusiast :octocat: | Continuous Learner :books:
 - 👀 I’m a full stack developer who is passionate about building applications.
 - :relieved: Currently i am working with React + .Net Core tech stack.
 
