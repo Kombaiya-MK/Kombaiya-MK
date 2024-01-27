@@ -32,7 +32,10 @@ You can click the Preview link to take a look at your changes.
 ![Kombaiya-MK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kombaiya-MK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <hr>
+<br>
 
+### Social Media
+<br>
 <a href="https://www.linkedin.com/in/kombaiya-mariappan-6b7896239">
     <img align="left" alt="Kombaiya-MK | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
