@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Stats
 ![Kombaiya-MK's Stats](https://github-readme-stats.vercel.app/api?username=Kombaiya-MK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -32,8 +31,6 @@ You can click the Preview link to take a look at your changes.
 ![Kombaiya-MK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kombaiya-MK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <hr>
-<br>
-
 ### Social Media
 <br>
 <a href="https://www.linkedin.com/in/kombaiya-mariappan-6b7896239">
