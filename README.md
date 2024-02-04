@@ -42,13 +42,13 @@ You can click the Preview link to take a look at your changes.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Social Media
 <a href="https://www.linkedin.com/in/kombaiya-mariappan-6b7896239">
-    <img align="left" alt="Kombaiya-MK | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Kombaiya-MK | Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/im_mk_14">
-    <img align="left" alt="Kombaiya-MK | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Kombaiya-MK | Instagram" width="115px" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:mksuresh044@gmail.com">
-    <img align="left" alt="Kombaiya-MK | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Kombaiya-MK | Gmail" width="80px" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 
