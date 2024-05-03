@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kombaiya-MK&label=Profile%20views&color=0e75b6&style=flat" alt="Kombaiya-MK" /> </p>
 
 ### About Me
-- Hi 👋, I’m @Kombaiya-MK (Call me MK :wink:)
+- Hi 👋, I’m @Kombaiya-MK (MK :wink:)
 - Open Source Enthusiast :octocat: | Continuous Learner :books:
 - 👀 I’m a full stack developer who is passionate about building applications.
 - :relieved: Currently working with React + .Net Core.
